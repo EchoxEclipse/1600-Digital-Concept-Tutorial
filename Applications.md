@@ -9,5 +9,5 @@ Platforms like Instagram, Facebook, and Twitter compress user uploaded images to
 ## Digital Cameras and Smartphones
 Smartphones and digital cameras use lossy compression methods like JPEG to store high quality images in a fairly small file size, allowing users to store thousands of photos on their devices.
 
-[Previous: Popular Image Compression Formats](formats.md)  
-[Next: Conclusion](conclusion.md)
+[Previous: Popular Image Compression Formats](Formats.md)  
+[Next: Conclusion](Conclusion.md)
