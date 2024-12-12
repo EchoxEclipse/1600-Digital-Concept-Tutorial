@@ -12,5 +12,5 @@ GIF (Graphics Interchange Format) supports simple animations and images with a s
 ## WebP
 WebP is a format developed by Google that supports both lossy and lossless compression. It provides better compression and image quality compared to JPEG and PNG.
 
-[Previous: Lossless vs. Lossy Compression](lossless_vs_lossy.md)  
-[Next: Practical Applications of Image Compression](applications.md)
+[Previous: Lossless vs. Lossy Compression](Lossless_vs_Lossy.md)  
+[Next: Practical Applications of Image Compression](Applications.md)
