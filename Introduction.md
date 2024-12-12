@@ -12,4 +12,4 @@ Image compression is the process of reducing the file size of an image without l
 - **Bandwidth Efficiency**: Smaller file sizes mean less data transfer, which is beneficial for web pages or applications with many images.
 
 [Previous: README](README.md)  
-[Next: Lossless vs. Lossy Compression](Lossless_vs_Lossy.md)
+[Next: Lossless vs. Lossy Compression](LosslessvsLossy.md)
