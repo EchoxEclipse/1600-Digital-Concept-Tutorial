@@ -4,5 +4,5 @@ Digital image compression plays a big role in storing, transmitting, and process
 
 Thank you for reading this tutorial!
 
-[Previous: Practical Applications of Image Compression](applications.md)  
+[Previous: Practical Applications of Image Compression](Applications.md)  
 [Back to the [README](README.md)]
