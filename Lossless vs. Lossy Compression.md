@@ -18,5 +18,5 @@ Lossy compression loses some image quality to achieve a higher compression ratio
 - **JPEG compression**
 - **WebP compression**
 
-[Previous: Introduction to Digital Image Compression](introduction.md)  
-[Next: Popular Image Compression Formats](formats.md)
+[Previous: Introduction to Digital Image Compression](Introduction.md)  
+[Next: Popular Image Compression Formats](Formats.md)
