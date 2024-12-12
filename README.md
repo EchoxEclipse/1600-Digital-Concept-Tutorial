@@ -14,7 +14,7 @@ This tutorial briefly explains **Digital Image Compression**, including why and 
 
 ## Contents
 - [Introduction to Digital Image Compression](Introduction.md)
-- [Lossless vs. Lossy Compression](Lossless_vs_Lossy.md)
+- [Lossless vs. Lossy Compression](LosslessvsLossy.md)
 - [Popular Image Compression Formats](Formats.md)
 - [Practical Applications of Image Compression](Applications.md)
 - [Conclusion](Conclusion.md)
